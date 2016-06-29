@@ -1,0 +1,2 @@
+
+GRANT ALL PRIVILEGES  ON newtest1.* TO 'algo'@'%' IDENTIFIED BY 'algo' WITH GRANT OPTION
